@@ -1,5 +1,10 @@
 # Activity Lifecycle
 
+![GitHub language count](https://img.shields.io/github/languages/count/whoisraibolt/Activity-Lifecycle.svg)
+![GitHub top language](https://img.shields.io/github/languages/top/whoisraibolt/Activity-Lifecycle.svg)
+![Libraries.io dependency status for GitHub repo](https://img.shields.io/librariesio/github/whoisraibolt/Activity-Lifecycle.svg)
+![GitHub repo size](https://img.shields.io/github/repo-size/whoisraibolt/Activity-Lifecycle.svg)
+
 The Activity class is an important part of an application's overall lifecycle, and the way activities are launched and put together is a fundamental part of the platform's application model.
 
 ![Activity-Lifecycle](https://i.ytimg.com/vi/POr0uCQzof8/maxresdefault.jpg)
